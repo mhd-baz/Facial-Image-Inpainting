@@ -1,0 +1,8 @@
+Link to the best models (folder Project):
+
+(PAPER IMPLEMENTATION) "inpainting_model.pth"
+
+(BASELINE) "baseline_inpatining.h5"
+
+
+https://drive.google.com/drive/u/3/folders/1hdjtTKgaBmtXv2Eyicfw6BowoDi8TK_W

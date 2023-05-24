@@ -1,0 +1,7 @@
+Datasets Links used for taining the different models:
+
+- Face Images (CelebA)
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+- Maskes to corrupt the face images
+https://github.com/karfly/qd-imd
