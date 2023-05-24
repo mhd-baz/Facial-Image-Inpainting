@@ -82,3 +82,4 @@ $$ IMPORTANT:   The directories must be manually created in the following format
 		Masks form data are defualt in 512x512 format (can be resized within script)
 		Images used are in 1024x1024 and 512x512 format
 		The image filenames are the same across masks and source images(masks and images are linked via filename)
+		
