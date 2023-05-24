@@ -1,3 +1,5 @@
+This project was made during my Master's in IIT (Chicago) during the spring of 23, for my Computer Vision class.
+
 $$ ATTENTION: TO USE ALL THE JUPYTIER NOTEBOOK YOU NEED TO MEET TO THE REQUIRMENTS FILE
                 (The requirements file is not really accurate because there is in it libraries that are not used in the notebooks
                 and this because we forgot to use a specific python environment for this project, so we used our main python environment)
